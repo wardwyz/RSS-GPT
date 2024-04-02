@@ -19065,3 +19065,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：Google 同意删除隐私模式收集的资料等](https://sspai.com/post/87740)
 append_entries: 1
 Finish: 2024-04-02 04:20:18.374922
+------------------------------------------------------
+Started: 2024-04-02 06:22:17.547231
+Existing_entries: 688
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [一日一技 ｜ Windows 双网卡使用 WiFi 优先上网](https://sspai.com/post/87558)
+append_entries: 1
+Finish: 2024-04-02 06:22:20.558538
