@@ -1,0 +1,7 @@
+------------------------------------------------------
+Started: 2024-04-02 01:53:11.044633
+Existing_entries: 0
+Fetching from http://www.people.com.cn/rss/ywkx.xml
+Feed error: document declared as us-ascii, but parsed as utf-8
+append_entries: 0
+Finish: 2024-04-02 01:53:13.326866
