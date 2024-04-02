@@ -50,7 +50,7 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
-- http://www.people.com.cn/rss/ywkx.xml -> https://wardwyz.github.io/RSS-GPT/politics_people.xml
+- https://www.chinanews.com.cn/rss/scroll-news.xml -> https://wardwyz.github.io/RSS-GPT/chinanews.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://wardwyz.github.io/RSS-GPT/appinn.xml
 - https://rsshub.app/sspai/index -> https://wardwyz.github.io/RSS-GPT/sspai.xml
 - https://rknight.me/feed.xml -> https://wardwyz.github.io/RSS-GPT/robb-knight.xml

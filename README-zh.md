@@ -54,7 +54,7 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- http://www.people.com.cn/rss/ywkx.xml -> https://wardwyz.github.io/RSS-GPT/politics_people.xml
+- https://www.chinanews.com.cn/rss/scroll-news.xml -> https://wardwyz.github.io/RSS-GPT/chinanews.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://wardwyz.github.io/RSS-GPT/appinn.xml
 - https://rsshub.app/sspai/index -> https://wardwyz.github.io/RSS-GPT/sspai.xml
 - https://rknight.me/feed.xml -> https://wardwyz.github.io/RSS-GPT/robb-knight.xml
