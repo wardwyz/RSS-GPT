@@ -19149,3 +19149,12 @@ Existing_entries: 692
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-03 04:21:14.423271
+------------------------------------------------------
+Started: 2024-04-03 06:21:57.057999
+Existing_entries: 692
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [探索内容创作之路的 2023 年，我如何应对 5 种创作焦虑](https://sspai.com/post/87015)
+append_entries: 1
+Finish: 2024-04-03 06:22:00.775412
