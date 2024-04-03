@@ -19128,3 +19128,12 @@ Existing_entries: 691
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-02 22:18:55.018729
+------------------------------------------------------
+Started: 2024-04-03 01:13:14.929199
+Existing_entries: 691
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：ChatGPT 支持免登录使用等](https://sspai.com/post/87773)
+append_entries: 1
+Finish: 2024-04-03 01:13:18.261181
