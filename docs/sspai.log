@@ -19242,3 +19242,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [写给 Apple 用户的情书：vivo X Fold3 Pro](https://sspai.com/post/87747)
 append_entries: 1
 Finish: 2024-04-04 06:21:49.137460
+------------------------------------------------------
+Started: 2024-04-04 08:22:08.913146
+Existing_entries: 697
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-04 08:22:09.174495
