@@ -21416,3 +21416,11 @@ Append: [【自荐】带壳截图神器 NiceShots 迎来重大更新!](https://m
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-04-07 12:29:04.382428
+------------------------------------------------------
+Started: 2024-04-07 14:15:21.649137
+Existing_entries: 345
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-07 14:15:25.102312
