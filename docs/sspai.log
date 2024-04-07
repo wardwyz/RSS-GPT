@@ -19458,3 +19458,12 @@ Existing_entries: 699
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-07 04:21:42.339833
+------------------------------------------------------
+Started: 2024-04-07 06:20:23.769982
+Existing_entries: 699
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Essential Meets Expression——聊一聊Nothing Phone(2a)](https://sspai.com/post/87846)
+append_entries: 1
+Finish: 2024-04-07 06:20:27.204115
