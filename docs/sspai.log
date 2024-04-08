@@ -19542,3 +19542,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [派早报：运营商称将扩大「二次号码」解绑服务范围](https://sspai.com/post/87879)
 append_entries: 1
 Finish: 2024-04-08 04:20:59.451781
+------------------------------------------------------
+Started: 2024-04-08 06:23:16.222834
+Existing_entries: 703
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [更适合P人宝宝体质的学习方法：你根本不需要“自律”](https://sspai.com/post/87551)
+append_entries: 1
+Finish: 2024-04-08 06:23:19.632790
