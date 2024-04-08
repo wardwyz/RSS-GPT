@@ -19566,3 +19566,15 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
 append_entries: 1
 Finish: 2024-04-08 10:21:23.209599
+------------------------------------------------------
+Started: 2024-04-08 12:32:05.555170
+Existing_entries: 705
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [陌生而有趣的训练伙伴——波速球和 ViPR 炮筒](https://sspai.com/post/87891)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87904)
+append_entries: 2
+Finish: 2024-04-08 12:32:11.706847
