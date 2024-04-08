@@ -19557,3 +19557,12 @@ Existing_entries: 704
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-08 08:21:51.374309
+------------------------------------------------------
+Started: 2024-04-08 10:21:20.068715
+Existing_entries: 704
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [从零开始认识 API，把网页信息化为己用](https://sspai.com/post/87885)
+append_entries: 1
+Finish: 2024-04-08 10:21:23.209599
