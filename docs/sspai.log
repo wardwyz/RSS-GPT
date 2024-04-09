@@ -19638,3 +19638,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 append_entries: 1
 Finish: 2024-04-09 06:22:45.631283
+------------------------------------------------------
+Started: 2024-04-09 08:21:28.781805
+Existing_entries: 709
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-09 08:21:28.982723
