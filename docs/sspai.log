@@ -19653,3 +19653,12 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [再见你好吗：在 2024 回顾 Windows 的移动之梦](https://sspai.com/post/87907)
 append_entries: 1
 Finish: 2024-04-09 10:21:35.768570
+------------------------------------------------------
+Started: 2024-04-09 12:32:28.956970
+Existing_entries: 710
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主](https://sspai.com/post/87929)
+append_entries: 1
+Finish: 2024-04-09 12:32:32.358634
