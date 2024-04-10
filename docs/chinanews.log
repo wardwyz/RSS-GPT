@@ -691,3 +691,10 @@ Fetching from https://www.chinanews.com.cn/rss/scroll-news.xml
 Feed error: document declared as us-ascii, but parsed as utf-8
 append_entries: 0
 Finish: 2024-04-10 04:19:39.360741
+------------------------------------------------------
+Started: 2024-04-10 06:23:20.785958
+Existing_entries: 0
+Fetching from https://www.chinanews.com.cn/rss/scroll-news.xml
+Feed error: document declared as us-ascii, but parsed as utf-8
+append_entries: 0
+Finish: 2024-04-10 06:23:21.361492
