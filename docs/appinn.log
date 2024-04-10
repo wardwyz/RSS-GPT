@@ -21692,3 +21692,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【自荐】Pixboard: 只是一个能在桌面上放置模拟LED/CRT/VFD复古屏小摆件的App](https://meta.appinn.net/t/topic/54971)
 append_entries: 1
 Finish: 2024-04-10 08:24:31.374004
+------------------------------------------------------
+Started: 2024-04-10 10:19:44.325992
+Existing_entries: 349
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-10 10:19:48.797960
