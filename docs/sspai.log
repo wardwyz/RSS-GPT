@@ -19827,3 +19827,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
 append_entries: 2
 Finish: 2024-04-11 12:32:07.685570
+------------------------------------------------------
+Started: 2024-04-11 14:16:58.524098
+Existing_entries: 718
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-11 14:16:58.753591
