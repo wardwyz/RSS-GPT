@@ -19815,3 +19815,15 @@ Existing_entries: 716
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-11 10:19:16.717173
+------------------------------------------------------
+Started: 2024-04-11 12:32:01.190083
+Existing_entries: 716
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新玩意 177｜少数派的编辑们最近买了啥？](https://sspai.com/post/87996)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
+append_entries: 2
+Finish: 2024-04-11 12:32:07.685570
