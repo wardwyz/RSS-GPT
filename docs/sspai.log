@@ -19878,3 +19878,12 @@ Existing_entries: 719
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 04:21:54.029674
+------------------------------------------------------
+Started: 2024-04-12 06:22:47.881962
+Existing_entries: 719
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [沉浸式语言学习实践](https://sspai.com/post/87977)
+append_entries: 1
+Finish: 2024-04-12 06:22:50.994746
