@@ -19887,3 +19887,9 @@ error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` 
 Append: [沉浸式语言学习实践](https://sspai.com/post/87977)
 append_entries: 1
 Finish: 2024-04-12 06:22:50.994746
+------------------------------------------------------
+Started: 2024-04-12 08:22:11.476970
+Existing_entries: 720
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-12 08:22:11.684818

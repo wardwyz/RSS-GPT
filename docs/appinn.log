@@ -21880,3 +21880,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【自荐】fork 自 Motrix 的全平台下载软件](https://meta.appinn.net/t/topic/55081)
 append_entries: 1
 Finish: 2024-04-12 06:22:43.585576
+------------------------------------------------------
+Started: 2024-04-12 08:22:04.184706
+Existing_entries: 353
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-12 08:22:07.212332
