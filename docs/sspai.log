@@ -19908,3 +19908,15 @@ Existing_entries: 721
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 12:31:35.012961
+------------------------------------------------------
+Started: 2024-04-12 14:16:30.848588
+Existing_entries: 721
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/post/87993)
+append_entries: 2
+Finish: 2024-04-12 14:16:36.835230
