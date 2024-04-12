@@ -43265,3 +43265,28 @@ Filter: [IPO一周年，“深圳AI第一股”褪色](https://www.36kr.com/p/27
 Filter: [AI大战上演：巨头激战、初创逆袭，谁将引领未来AI新潮流？](https://www.36kr.com/p/2728722782594054)
 append_entries: 1
 Finish: 2024-04-12 08:22:25.766617
+------------------------------------------------------
+Started: 2024-04-12 10:19:14.782681
+Existing_entries: 643
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [AI Agent，垂直AI重塑B2B价值链的关键](https://www.36kr.com/p/2730114122925827)
+Filter: [俄罗斯搜索巨头Yandex Ads：AI能协助客户管理70%广告营销](https://www.36kr.com/p/2730030566450182)
+Filter: [亚马逊CEO股东信全文：生成式AI将成亚马逊新支柱，承诺削减成本](https://www.36kr.com/p/2730198059852809)
+Filter: [深访硅谷一个月后，一位投资人发问：大模型持续烧钱最后由谁买单？](https://www.36kr.com/p/2729991193502983)
+Filter: [李彦宏还缺个Sora](https://www.36kr.com/p/2730022737159168)
+Filter: [走进 AI 高薪族：小而美团队成主流，博士生招聘需求飙升 430%](https://www.36kr.com/p/2730042289906953)
+Filter: [Suno爆火没一个月，文生音乐的头把交椅就要换人了？](https://www.36kr.com/p/2730124841116674)
+Filter: [给AI当“奶妈”，是天涯们的生路吗？](https://www.36kr.com/p/2730072294745095)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [山姆·奥特曼跻身“十亿级”富豪榜：身家超20亿美元，不含OpenAI股份](https://www.36kr.com/p/2729941257462791)
+Filter: [大模型加持后，数字人“更像人”了吗？](https://www.36kr.com/p/2729919343010817)
+Filter: [李彦宏最新内部讲话：开源大模型不如闭源，后者会持续领先](https://www.36kr.com/p/2729918811677704)
+Filter: [AIGC浪潮“卷”至广告业，支付宝等互联网大厂已出手](https://www.36kr.com/p/2729880458568713)
+Filter: [奥尔特曼远赴中东寻求盟友，除了生产芯片还要“为AI发电”](https://www.36kr.com/p/2729752983610625)
+Filter: [一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发](https://www.36kr.com/p/2726136547976201)
+Filter: [从1到10：AI产品和互联网产品的核心差异](https://www.36kr.com/p/2729165196625670)
+Filter: [大模型时代，AI人才也是各家争夺的焦点](https://www.36kr.com/p/2729066292856577)
+Filter: [AI带来创业「危机」与「良机」，教培行业如何抓住机会?](https://www.36kr.com/p/2729124130694152)
+append_entries: 1
+Finish: 2024-04-12 10:19:18.126590

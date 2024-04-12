@@ -19893,3 +19893,12 @@ Existing_entries: 720
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 08:22:11.684818
+------------------------------------------------------
+Started: 2024-04-12 10:19:01.141192
+Existing_entries: 720
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [为了发现更多感觉兴趣的播客，我开发了一款工具](https://sspai.com/post/87991)
+append_entries: 1
+Finish: 2024-04-12 10:19:04.745921
