@@ -19857,3 +19857,12 @@ Existing_entries: 718
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-11 22:16:27.007550
+------------------------------------------------------
+Started: 2024-04-12 01:14:40.944005
+Existing_entries: 718
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini](https://sspai.com/post/88008)
+append_entries: 1
+Finish: 2024-04-12 01:14:44.116451
