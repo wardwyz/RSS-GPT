@@ -20064,3 +20064,12 @@ Existing_entries: 725
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-14 22:24:54.138579
+------------------------------------------------------
+Started: 2024-04-15 03:31:40.858063
+Existing_entries: 725
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [派早报：商务部推动数字消费提升、消费品以旧换新](https://sspai.com/post/88074)
+append_entries: 1
+Finish: 2024-04-15 03:31:44.299720
