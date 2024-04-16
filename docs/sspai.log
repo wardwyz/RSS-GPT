@@ -20181,3 +20181,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验](https://sspai.com/post/88067)
 append_entries: 2
 Finish: 2024-04-16 08:21:32.972292
+------------------------------------------------------
+Started: 2024-04-16 10:18:29.779714
+Existing_entries: 732
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐](https://sspai.com/post/88118)
+append_entries: 1
+Finish: 2024-04-16 10:18:30.522453
