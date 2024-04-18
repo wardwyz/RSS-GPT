@@ -20343,3 +20343,12 @@ Existing_entries: 740
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-18 06:23:32.429871
+------------------------------------------------------
+Started: 2024-04-18 08:22:35.652912
+Existing_entries: 740
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
+append_entries: 1
+Finish: 2024-04-18 08:22:36.203016
