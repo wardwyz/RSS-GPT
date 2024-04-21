@@ -22729,3 +22729,11 @@ Append: [[送码] 一款小而美的减压类APP](https://meta.appinn.net/t/topi
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-04-21 12:31:16.710062
+------------------------------------------------------
+Started: 2024-04-21 14:15:11.363936
+Existing_entries: 362
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-21 14:15:14.847332
