@@ -20733,3 +20733,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等](https://sspai.com/post/88272)
 append_entries: 1
 Finish: 2024-04-23 02:27:30.259072
+------------------------------------------------------
+Started: 2024-04-23 04:21:09.656503
+Existing_entries: 754
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-23 04:21:09.898855
