@@ -20772,3 +20772,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [社区速递 041 | 派友速食大曝光、老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
 append_entries: 1
 Finish: 2024-04-23 12:33:44.314539
+------------------------------------------------------
+Started: 2024-04-23 14:16:51.681953
+Existing_entries: 757
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-23 14:16:51.915201
