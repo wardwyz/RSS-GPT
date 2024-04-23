@@ -20739,3 +20739,12 @@ Existing_entries: 754
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-23 04:21:09.898855
+------------------------------------------------------
+Started: 2024-04-23 06:25:07.316395
+Existing_entries: 754
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [我的购房指北：买房之前可以关注什么？](https://sspai.com/post/88238)
+append_entries: 1
+Finish: 2024-04-23 06:25:07.864586
