@@ -20844,3 +20844,15 @@ Existing_entries: 759
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-24 10:19:55.840059
+------------------------------------------------------
+Started: 2024-04-24 12:38:29.122507
+Existing_entries: 759
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [你的五一旅行必备清单，这些出行好物推荐给你](https://sspai.com/post/88300)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [听我爱听的——基于 Antennapod 的全播客解决方案](https://sspai.com/post/88279)
+append_entries: 2
+Finish: 2024-04-24 12:38:29.877603
