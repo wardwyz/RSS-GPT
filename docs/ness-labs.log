@@ -2811,3 +2811,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [The Tyranny of Job Titles: From Vanity Growth to Personal Growth](https://nesslabs.com/job-titles?utm_source=rss&utm_medium=rss&utm_campaign=job-titles)
 append_entries: 2
 Finish: 2024-04-25 14:13:43.047526
+------------------------------------------------------
+Started: 2024-04-25 16:22:22.895989
+Existing_entries: 21
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-04-25 16:22:23.422723
