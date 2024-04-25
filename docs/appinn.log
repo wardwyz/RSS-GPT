@@ -23079,3 +23079,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-25 02:52:53.386750
+------------------------------------------------------
+Started: 2024-04-25 04:26:17.383442
+Existing_entries: 368
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [请问这个搜索提示如何去掉](https://meta.appinn.net/t/topic/44764)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-25 04:26:21.016642
