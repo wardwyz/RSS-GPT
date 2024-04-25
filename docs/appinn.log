@@ -23104,3 +23104,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-25 08:23:21.967649
+------------------------------------------------------
+Started: 2024-04-25 10:19:10.833911
+Existing_entries: 369
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [TreeSheets基础使用说明，以及数十种高阶玩法教程！](https://meta.appinn.net/t/topic/34715)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-25 10:19:14.218208

@@ -20922,3 +20922,15 @@ Existing_entries: 763
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-25 08:23:26.593429
+------------------------------------------------------
+Started: 2024-04-25 10:19:18.676640
+Existing_entries: 763
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [在「移动的家」里，这是我们的爱护方式和好物推荐](https://sspai.com/post/88348)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
+append_entries: 2
+Finish: 2024-04-25 10:19:19.554022
