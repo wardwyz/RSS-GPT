@@ -20934,3 +20934,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [iPhone 终于有任天堂模拟器了：聊聊热门应用 Delta 的前世今生](https://sspai.com/post/88299)
 append_entries: 2
 Finish: 2024-04-25 10:19:19.554022
+------------------------------------------------------
+Started: 2024-04-25 12:27:14.066012
+Existing_entries: 765
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [新玩意 179｜少数派的编辑们最近买了啥？](https://sspai.com/post/88350)
+append_entries: 1
+Finish: 2024-04-25 12:27:14.473727
