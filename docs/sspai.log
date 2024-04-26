@@ -20994,3 +20994,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
 append_entries: 1
 Finish: 2024-04-26 04:20:13.776094
+------------------------------------------------------
+Started: 2024-04-26 06:25:18.885275
+Existing_entries: 767
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
+append_entries: 1
+Finish: 2024-04-26 06:25:19.364915
