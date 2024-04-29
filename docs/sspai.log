@@ -21219,3 +21219,12 @@ Existing_entries: 772
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-29 02:27:48.628909
+------------------------------------------------------
+Started: 2024-04-29 04:21:19.221840
+Existing_entries: 772
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：字节跳动称无计划出售 TikTok](https://sspai.com/post/88419)
+append_entries: 1
+Finish: 2024-04-29 04:21:19.736672
