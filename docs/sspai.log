@@ -21300,3 +21300,12 @@ Existing_entries: 775
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-30 02:26:07.666710
+------------------------------------------------------
+Started: 2024-04-30 04:21:35.204672
+Existing_entries: 775
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [派早报：六家企业通过汽车数据安全合规要求检测等](https://sspai.com/post/88465)
+append_entries: 1
+Finish: 2024-04-30 04:21:35.613109
