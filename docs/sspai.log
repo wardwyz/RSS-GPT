@@ -21318,3 +21318,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [一个「吸引」行业震动的小小改动](https://sspai.com/post/88461)
 append_entries: 1
 Finish: 2024-04-30 06:24:12.299751
+------------------------------------------------------
+Started: 2024-04-30 08:22:36.200805
+Existing_entries: 777
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
+append_entries: 1
+Finish: 2024-04-30 08:22:36.906263
