@@ -21405,3 +21405,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [这个五一假期，和这些好文、音乐与电影享受轻松时刻](https://sspai.com/post/79515)
 append_entries: 1
 Finish: 2024-05-01 06:24:57.739171
+------------------------------------------------------
+Started: 2024-05-01 08:25:48.160818
+Existing_entries: 782
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [如何用 LaTeX 给文档创建美观的目录和索引](https://sspai.com/post/87254)
+append_entries: 1
+Finish: 2024-05-01 08:25:48.611773
