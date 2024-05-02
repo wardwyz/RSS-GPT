@@ -21486,3 +21486,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [把宝贵的时间留给佳作，追剧观影少不了这些辅助](https://sspai.com/post/79491)
 append_entries: 1
 Finish: 2024-05-02 06:23:26.427951
+------------------------------------------------------
+Started: 2024-05-02 08:22:21.628729
+Existing_entries: 785
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [用 Keyboard Maestro 增强浏览器使用体验](https://sspai.com/post/83865)
+append_entries: 1
+Finish: 2024-05-02 08:22:22.114518
