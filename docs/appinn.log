@@ -23928,3 +23928,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-03 20:19:39.223305
+------------------------------------------------------
+Started: 2024-05-03 22:17:23.779094
+Existing_entries: 377
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [#TaskClosure - DeadLine Pro 【促销】](https://meta.appinn.net/t/topic/55964)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-03 22:17:28.246105
