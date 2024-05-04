@@ -21648,3 +21648,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
 append_entries: 2
 Finish: 2024-05-04 06:22:35.952541
+------------------------------------------------------
+Started: 2024-05-04 08:20:23.039968
+Existing_entries: 791
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
+append_entries: 1
+Finish: 2024-05-04 08:20:23.620459
