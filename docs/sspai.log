@@ -21636,3 +21636,15 @@ Existing_entries: 789
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-04 04:22:34.934192
+------------------------------------------------------
+Started: 2024-05-04 06:22:35.410007
+Existing_entries: 789
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注](https://sspai.com/post/88525)
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
+append_entries: 2
+Finish: 2024-05-04 06:22:35.952541
