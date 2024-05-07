@@ -21916,3 +21916,10 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
 append_entries: 1
 Finish: 2024-05-07 10:19:41.666284
+------------------------------------------------------
+Started: 2024-05-07 12:32:58.928223
+Existing_entries: 805
+Fetching from https://rsshub.app/sspai/index
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/sspai
