@@ -5268,3 +5268,12 @@ Existing_entries: 24
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-05-29 14:18:14.169904
+------------------------------------------------------
+Started: 2024-05-29 16:23:54.370156
+Existing_entries: 24
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Ness Labs Best Books of May 2024](https://nesslabs.com/best-books-may-2024?utm_source=rss&utm_medium=rss&utm_campaign=best-books-may-2024)
+append_entries: 1
+Finish: 2024-05-29 16:23:55.177920
