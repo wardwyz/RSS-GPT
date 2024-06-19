@@ -28467,3 +28467,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-19 14:17:07.626162
+------------------------------------------------------
+Started: 2024-06-19 16:23:23.709210
+Existing_entries: 436
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [如何平滑的打开一个有1000+条目的chrome收藏夹？](https://meta.appinn.net/t/topic/57858)
+Append: [有什么内存占用非常大的网页？](https://meta.appinn.net/t/topic/57859)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-06-19 16:23:27.527178
