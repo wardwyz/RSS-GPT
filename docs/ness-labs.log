@@ -6843,3 +6843,12 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [Temporal Curiosity: Exploring the Past, Present, and Future](https://nesslabs.com/temporal-curiosity?utm_source=rss&utm_medium=rss&utm_campaign=temporal-curiosity)
 append_entries: 1
 Finish: 2024-06-20 08:24:23.627876
+------------------------------------------------------
+Started: 2024-06-20 10:20:05.770035
+Existing_entries: 29
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Principles of Emotional Regulation](https://nesslabs.com/emotional-regulation?utm_source=rss&utm_medium=rss&utm_campaign=emotional-regulation)
+append_entries: 1
+Finish: 2024-06-20 10:20:06.441642
