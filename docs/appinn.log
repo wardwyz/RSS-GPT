@@ -31662,3 +31662,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-22 10:21:01.761265
+------------------------------------------------------
+Started: 2024-07-22 12:38:05.661701
+Existing_entries: 487
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [Balance Lock解决macOS左右声道平衡偏移bug](https://meta.appinn.net/t/topic/29316)
+Append: [【自荐】Logoer: 无痛替换macOS左上角默认苹果Logo, 个性化你的Mac](https://meta.appinn.net/t/topic/59098)
+append_entries: 2
+Finish: 2024-07-22 12:38:09.133359

@@ -4,6 +4,121 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>Balance Lock解决macOS左右声道平衡偏移bug</title>
+<link>https://meta.appinn.net/t/topic/29316</link>
+<guid>https://meta.appinn.net/t/topic/29316</guid>
+<content:encoded><![CDATA[
+
+<p>macOS电脑在插入耳机或者USB声卡后，在CPU占用较高时调整音量，将有可能导致左右声道的平衡发生偏移</p>
+<p>一般人第一反应会是去检查耳机接口是否出现了接触不良，但这其实并不是硬件的问题，而是伴随了macOS十几年未修复的软件bug</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img class="site-icon" height="16" src="https://meta-cdn1.appinn.com/uploads/default/original/3X/1/4/149bc6e1d9bb0721e5a545e946409fdbf2295ed5.png" width="16" />
+
+      <a href="http://www.mac52ipod.cn/post/apple-mac-macos-bug-audio-balance.php" rel="noopener" target="_blank">mac52ipod.cn</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="http://www.mac52ipod.cn/post/apple-mac-macos-bug-audio-balance.php" rel="noopener" target="_blank">一个存在了 16 年没修复的苹果电脑 bug：CPU 负荷很高时左右声道平衡可能会改变 - 苹果fans博客</a></h3>
+
+  <p>前几天看到 @Ratoo 的一条吐槽：[code]今天终于知道，macOS 声道平衡突然在没有修改的情况下自己偏左或偏右是一个 Mac OS X 10.2 时期就存在，至今超过 16 年的 bug …… 在处理器高负荷的情况下反复按音量键就会导致声道平衡被改变。当年差点以为 MacBook 耳机接口出问题。[/code]网上的讨论可以溯源到这篇 2006 年......苹果fans博客</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both;"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img class="site-icon" height="32" src="https://meta-cdn1.appinn.com/uploads/default/original/3X/5/b/5b64368473083bdad49ae51b99e7f94f03c2f1fa.png" width="32" />
+
+      <a href="https://www.zhihu.com/question/20419887" rel="noopener" target="_blank">zhihu.com</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://www.zhihu.com/question/20419887" rel="noopener" target="_blank">Mac OS X 的左右声道平衡经常变动，可能是什么原因导致的？ - 知乎</a></h3>
+
+  <p>所谓的左右声道平衡，就是左右耳听到声音的轻重。默认是居中（可在“系统偏好设置-声音-输出”查看），但…</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both;"></div>
+</aside>
+
+<p>Balance Lock可以在该bug被触发时，在后台自动将macOS的声像恢复至预设的位置</p>
+<p><a class="onebox" href="https://apps.apple.com/cn/app/balance-lock/id1019371109" rel="noopener" target="_blank">https://apps.apple.com/cn/app/balance-lock/id1019371109</a></p>
+            <p><small>5 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/29316">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Thu, 20 Jan 2022 05:14:06 +0000</pubDate>
+<pubDate>Thu, 20 Jan 2022 05:14:06 +0000</pubDate>
+</item>
+<item>
+<title>【自荐】Logoer: 无痛替换macOS左上角默认苹果Logo, 个性化你的Mac</title>
+<link>https://meta.appinn.net/t/topic/59098</link>
+<guid>https://meta.appinn.net/t/topic/59098</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
+<p>Logoer</p>
+<h2><a class="anchor" href="https://meta.appinn.net#h-2" name="h-2"></a>官网&amp;下载</h2>
+<p>官方网站: <strong><a href="https://github.com/lihaoyun6/Logoer/blob/main/README_zh.md" rel="noopener nofollow ugc">Logoer</a></strong><br />
+下载地址: <strong><a href="https://github.com/lihaoyun6/Logoer/releases/latest" rel="noopener nofollow ugc">点此前往</a></strong></p>
+<h2><a class="anchor" href="https://meta.appinn.net#h-3" name="h-3"></a>一句话简介</h2>
+<p>无痛替换 macOS 左上角默认的苹果 Logo, 让你的 Mac 与众不同</p>
+<h2><a class="anchor" href="https://meta.appinn.net#h-4" name="h-4"></a>软件特色</h2>
+<ol>
+<li>
+<p>使用 SwiftUI 编写, 体积小巧, App 完全处于沙盒模式</p>
+</li>
+<li>
+<p>无需特殊权限, 无需关闭 SIP 保护, 无需修改系统文件</p>
+</li>
+<li>
+<p>内置多种预设 Logo 样式, 还可以导入自定义图标</p>
+</li>
+<li>
+<p>完全免费开源, 代码透明, 不收集上传任何用户隐私</p>
+</li>
+</ol>
+<h2><a class="anchor" href="https://meta.appinn.net#h-5" name="h-5"></a>使用注意</h2>
+<ul>
+<li>Logoer 启动后不会显示任何窗口, 只会替换掉屏幕左上角的苹果 logo. 如需打开设置窗口, 请在 Logoer 正在运行的情况下再次从访达中启动它.</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#v016-20240722-6" name="v016-20240722-6"></a>v0.1.6 更新日志 (2024/07/22)</h2>
+<ul>
+<li>修复了与 macOS 15 的兼容性</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#h-7" name="h-7"></a>软件截图</h2>
+<p><img alt="Preview" height="349" src="https://h1.appinn.net/file/e5536c18ec56bec03268d.png" width="690" /><br />
+<img alt="Preview" height="500" src="https://h1.appinn.net/file/dd1b3da358ac9d872bd23.png" width="679" /></p>
+<blockquote>
+<p>本软件完全开源免费使用. 如果用的顺手, 可以在github页面最底部扫码打赏.<br />
+您的支持是我创造更多开源软件的动力0v0</p>
+</blockquote>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/59098">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 22 Jul 2024 10:27:53 +0000</pubDate>
+<pubDate>Mon, 22 Jul 2024 10:27:53 +0000</pubDate>
+</item>
 
 <item>
 <title>展示一下搜索酱的 AI 功能【Chrome/Firefox】</title>
