@@ -9684,3 +9684,9 @@ error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-1
 Append: [Ness Labs Best Books of July 2024](https://nesslabs.com/best-books-july-2024?utm_source=rss&utm_medium=rss&utm_campaign=best-books-july-2024)
 append_entries: 1
 Finish: 2024-07-29 16:25:37.976775
+------------------------------------------------------
+Started: 2024-07-29 18:27:42.761999
+Existing_entries: 34
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2024-07-29 18:27:42.995568
