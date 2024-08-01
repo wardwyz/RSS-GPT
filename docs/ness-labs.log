@@ -9894,3 +9894,12 @@ Existing_entries: 34
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2024-08-01 14:21:25.898972
+------------------------------------------------------
+Started: 2024-08-01 16:25:10.768653
+Existing_entries: 34
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-18R88***************************************n1Cz. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Append: [Levels of Thinking: How to Make Better Decisions with Second-Level Thinking](https://nesslabs.com/levels-of-thinking?utm_source=rss&utm_medium=rss&utm_campaign=levels-of-thinking)
+append_entries: 1
+Finish: 2024-08-01 16:25:11.526606
