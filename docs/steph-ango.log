@@ -25317,3 +25317,10 @@ Fetching from https://stephanango.com/feed.xml
 Feed error: 301
 append_entries: 0
 Finish: 2024-08-10 12:35:57.625596
+------------------------------------------------------
+Started: 2024-08-10 14:17:27.594022
+Existing_entries: 35
+Fetching from https://stephanango.com/feed.xml
+Feed error: 301
+append_entries: 0
+Finish: 2024-08-10 14:17:27.870340
