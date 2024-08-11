@@ -33597,3 +33597,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-11 08:22:18.800879
+------------------------------------------------------
+Started: 2024-08-11 10:19:24.364786
+Existing_entries: 510
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [iPad如何长截图？](https://meta.appinn.net/t/topic/59793)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-11 10:19:28.380794
