@@ -34790,3 +34790,13 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-23 06:27:15.588050
+------------------------------------------------------
+Started: 2024-08-23 08:25:24.803680
+Existing_entries: 517
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [给女儿写的自动听写工具网页](https://meta.appinn.net/t/topic/29959)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【开发者自荐】一款专注于还原用户真实手写体验的国产自研笔记软件](https://meta.appinn.net/t/topic/60250)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 2
+Finish: 2024-08-23 08:25:27.878339
