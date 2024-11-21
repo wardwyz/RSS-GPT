@@ -43494,3 +43494,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-20 22:21:27.470666
+------------------------------------------------------
+Started: 2024-11-21 01:47:04.544781
+Existing_entries: 621
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【开发者自荐】Weblink - 开源免费的Web P2P聊天文件传输、文件同步工具](https://meta.appinn.net/t/topic/63332)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-21 01:47:08.005251
